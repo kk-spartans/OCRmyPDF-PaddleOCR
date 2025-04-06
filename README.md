@@ -1,3 +1,5 @@
+**This repository is nowhere near ready yet, please come back when the README has changed**
+
 # OCRmyPDF EasyOCR
 
 This is plugin to run OCRmyPDF with the EasyOCR engine instead of Tesseract OCR,
